@@ -19,4 +19,4 @@ GM.Author = "Your Name"
 
 DeriveGamemode("msrp")
 
-hook.Run("DigitalGaming.Ininitalize")
+hook.Run("maaxStudiosRPIninitalize")
