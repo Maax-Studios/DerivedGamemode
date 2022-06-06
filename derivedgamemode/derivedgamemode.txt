@@ -1,0 +1,15 @@
+"your_gamemode"
+{
+    "base"		"dgrp"
+    "title"  "derivedgamemode"
+    "version"   "0.1"
+    "menusystem"	"1"
+
+    "author_name"   "Your Name"
+    "author_email"  "Your E-Mail"
+    "author_url"    "Your Website"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
