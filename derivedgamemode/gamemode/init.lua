@@ -1,6 +1,12 @@
 -------------------------------------
---         DGRP (c) 2022           --
---    'Digital Gaming: Roleplay'   --
+--         MSRP (c) 2022           --
+--     'Maax Studios: Roleplay'    --
+--                                 --
+--  Created by Max 'Maax' Eckey    --
+--                                 --
+-- You are not permitted to share, --
+--    trade, give away, sell       --
+--    or otherwise distribute      --
 --                                 --
 -------------------------------------
 -------------------------------------
