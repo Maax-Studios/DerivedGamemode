@@ -14,7 +14,7 @@
 -------------------------------------
 
 GM.Version = "0.0.0"
-GM.Name = "your_gamemode"
+GM.Name = "Your Server Name"
 GM.Author = "Your Name"
 
 DeriveGamemode("msrp")
